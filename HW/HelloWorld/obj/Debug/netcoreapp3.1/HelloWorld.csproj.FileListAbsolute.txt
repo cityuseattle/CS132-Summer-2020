@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HW\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
