@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\bin\Debug\netcoreapp3.1\Arrays_Enum.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\HOP02\Arrays_Enum\obj\Debug\netcoreapp3.1\Arrays_Enum.genruntimeconfig.cache
