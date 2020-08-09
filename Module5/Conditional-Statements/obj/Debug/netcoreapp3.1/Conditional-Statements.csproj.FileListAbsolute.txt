@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.genruntimeconfig.cache

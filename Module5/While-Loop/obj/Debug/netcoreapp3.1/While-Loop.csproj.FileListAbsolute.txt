@@ -1,0 +1,12 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module5\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.genruntimeconfig.cache
