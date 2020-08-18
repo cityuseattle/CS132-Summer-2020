@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\bin\Debug\netcoreapp3.1\HelloWorld_redo.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module1\HelloWorld_redo\obj\Debug\netcoreapp3.1\HelloWorld_redo.genruntimeconfig.cache

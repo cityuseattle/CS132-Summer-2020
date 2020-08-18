@@ -1,0 +1,12 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

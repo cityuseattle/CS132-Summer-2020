@@ -1,0 +1,12 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module2\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
