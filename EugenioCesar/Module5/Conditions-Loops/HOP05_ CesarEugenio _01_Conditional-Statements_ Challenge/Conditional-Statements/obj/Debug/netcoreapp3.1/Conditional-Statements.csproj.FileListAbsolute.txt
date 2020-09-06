@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/bin/Debug/netcoreapp3.1/Conditional-Statements.deps.json
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/bin/Debug/netcoreapp3.1/Conditional-Statements.runtimeconfig.json
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/bin/Debug/netcoreapp3.1/Conditional-Statements.runtimeconfig.dev.json
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/bin/Debug/netcoreapp3.1/Conditional-Statements.dll
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/bin/Debug/netcoreapp3.1/Conditional-Statements.pdb
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.csprojAssemblyReference.cache
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.AssemblyInfo.cs
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.dll
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.pdb
+/Users/y3y0/Projects/Conditional-Statements/Conditional-Statements/obj/Debug/netcoreapp3.1/Conditional-Statements.genruntimeconfig.cache
