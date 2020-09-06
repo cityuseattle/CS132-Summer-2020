@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.deps.json
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.runtimeconfig.json
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.runtimeconfig.dev.json
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.dll
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.pdb
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.csprojAssemblyReference.cache
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.AssemblyInfo.cs
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.dll
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.pdb
+/Users/y3y0/Projects/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.genruntimeconfig.cache
