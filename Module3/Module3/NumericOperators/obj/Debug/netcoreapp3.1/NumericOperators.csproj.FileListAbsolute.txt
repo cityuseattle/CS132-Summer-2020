@@ -1,0 +1,12 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module3\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
