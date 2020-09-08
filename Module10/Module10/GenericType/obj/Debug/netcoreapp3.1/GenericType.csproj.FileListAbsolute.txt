@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.genruntimeconfig.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
