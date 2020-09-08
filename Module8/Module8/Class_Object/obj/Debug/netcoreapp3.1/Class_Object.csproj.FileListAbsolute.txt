@@ -1,0 +1,13 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.csproj.CoreCompileInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.exe
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.deps.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.runtimeconfig.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.runtimeconfig.dev.json
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\bin\Debug\netcoreapp3.1\Class_Object.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.dll
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.pdb
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module8\Class_Object\obj\Debug\netcoreapp3.1\Class_Object.genruntimeconfig.cache
