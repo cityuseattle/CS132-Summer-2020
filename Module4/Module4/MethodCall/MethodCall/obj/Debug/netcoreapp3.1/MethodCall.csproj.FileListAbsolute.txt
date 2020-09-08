@@ -1,0 +1,4 @@
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module4\MethodCall\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module4\MethodCall\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module4\MethodCall\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\ON\fernando-mckenzie\Module4\MethodCall\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.csproj.CoreCompileInputs.cache
