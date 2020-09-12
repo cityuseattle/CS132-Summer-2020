@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.deps.json
+/Users/y3y0/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.runtimeconfig.json
+/Users/y3y0/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.runtimeconfig.dev.json
+/Users/y3y0/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.dll
+/Users/y3y0/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.pdb
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.csprojAssemblyReference.cache
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.AssemblyInfo.cs
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.dll
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.pdb
+/Users/y3y0/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.genruntimeconfig.cache

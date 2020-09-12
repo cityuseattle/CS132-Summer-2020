@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.deps.json
+/Users/y3y0/Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.runtimeconfig.json
+/Users/y3y0/Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.runtimeconfig.dev.json
+/Users/y3y0/Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.dll
+/Users/y3y0/Projects/Arraylist/Arraylist/bin/Debug/netcoreapp3.1/Arraylist.pdb
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.csprojAssemblyReference.cache
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.AssemblyInfo.cs
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.dll
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.pdb
+/Users/y3y0/Projects/Arraylist/Arraylist/obj/Debug/netcoreapp3.1/Arraylist.genruntimeconfig.cache

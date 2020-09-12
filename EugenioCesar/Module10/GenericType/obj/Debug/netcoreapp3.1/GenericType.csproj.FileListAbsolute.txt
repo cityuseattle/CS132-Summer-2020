@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/GenericType/GenericType/bin/Debug/netcoreapp3.1/GenericType.deps.json
+/Users/y3y0/Projects/GenericType/GenericType/bin/Debug/netcoreapp3.1/GenericType.runtimeconfig.json
+/Users/y3y0/Projects/GenericType/GenericType/bin/Debug/netcoreapp3.1/GenericType.runtimeconfig.dev.json
+/Users/y3y0/Projects/GenericType/GenericType/bin/Debug/netcoreapp3.1/GenericType.dll
+/Users/y3y0/Projects/GenericType/GenericType/bin/Debug/netcoreapp3.1/GenericType.pdb
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.csprojAssemblyReference.cache
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.AssemblyInfo.cs
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.dll
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.pdb
+/Users/y3y0/Projects/GenericType/GenericType/obj/Debug/netcoreapp3.1/GenericType.genruntimeconfig.cache
