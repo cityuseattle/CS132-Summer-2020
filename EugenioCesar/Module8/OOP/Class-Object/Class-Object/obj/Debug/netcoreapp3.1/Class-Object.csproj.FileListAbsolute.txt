@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/Class-Object/Class-Object/bin/Debug/netcoreapp3.1/Class-Object.deps.json
+/Users/y3y0/Projects/Class-Object/Class-Object/bin/Debug/netcoreapp3.1/Class-Object.runtimeconfig.json
+/Users/y3y0/Projects/Class-Object/Class-Object/bin/Debug/netcoreapp3.1/Class-Object.runtimeconfig.dev.json
+/Users/y3y0/Projects/Class-Object/Class-Object/bin/Debug/netcoreapp3.1/Class-Object.dll
+/Users/y3y0/Projects/Class-Object/Class-Object/bin/Debug/netcoreapp3.1/Class-Object.pdb
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.csprojAssemblyReference.cache
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.AssemblyInfo.cs
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.dll
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.pdb
+/Users/y3y0/Projects/Class-Object/Class-Object/obj/Debug/netcoreapp3.1/Class-Object.genruntimeconfig.cache
